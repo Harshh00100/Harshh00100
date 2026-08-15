@@ -41,13 +41,12 @@ I care about **rigor** — verifying that things actually work the way they're s
 
 | Project | Description | Stack |
 |---|---|---|
-| **[NSE Stock Direction Prediction Pipeline](#)** | End-to-end pipeline covering 86 NSE stocks — news collection, FinBERT sentiment scoring, price data via yfinance, feature merging, and XGBoost/LSTM model training. | `Python` `FinBERT` `XGBoost` `yfinance` |
-| **[CSI-Based WiFi Presence Detection](#)** | Motion/presence detection system using ESP32 Channel State Information, with a full ESP-IDF firmware pipeline and Python data collection layer. | `ESP32` `ESP-IDF` `Python` `Signal Processing` |
-| **[CMOS OTA — 45nm ](#)** | Scaled a CMOS differential amplifier (OTA) across process nodes for an industry internship, including full SPICE netlists and testbenches. | `Cadence Virtuoso` |
-| **[Second-Generation Current Conveyor (CCII+)](#)** | Full analog IC design flow from schematic to post-layout verification, including DRC/LVS/PEX sign-off. | `Cadence Virtuoso` `Analog IC Design` |
-| **[LTI System Analyzer](#)** | Interactive Streamlit app for analyzing linear time-invariant systems. | `Python` `Streamlit` `Signal Processing` |
+| **[NSE Stock Direction Prediction Pipeline]** | End-to-end pipeline covering 86 NSE stocks — news collection, FinBERT sentiment scoring, price data via yfinance, feature merging, and XGBoost/LSTM model training. | `Python` `FinBERT` `XGBoost` `yfinance` |
+| **[CSI-Based WiFi Presence Detection]** | Motion/presence detection system using ESP32 Channel State Information, with a full ESP-IDF firmware pipeline and Python data collection layer. | `ESP32` `ESP-IDF` `Python` `Signal Processing` |
+| **[CMOS OTA — 45nm ]** | Scaled a CMOS differential amplifier (OTA) across process nodes for an industry internship, including full SPICE netlists and testbenches. | `Cadence Virtuoso` |
+| **[Second-Generation Current Conveyor (CCII+)]** | Full analog IC design flow from schematic to post-layout verification, including DRC/LVS/PEX sign-off. | `Cadence Virtuoso` `Analog IC Design` |
+| **[LTI System Analyzer]** | Interactive Streamlit app for analyzing linear time-invariant systems. | `Python` `Streamlit` `Signal Processing` |
 
-> Replace the `#` links above with your actual repo URLs once each project is pushed.
 
 ---
 
