@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cadence%20Virtuoso-Analog%20IC%20Design-00395D?style=flat-square" />
-  <img src="https://img.shields.io/badge/SKY130-VLSI%20PDK-00AEEF?style=flat-square" />
+  <img src="https://img.shields.io/badge/VLSI%20PDK-00AEEF?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-ML%2FAI-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-Embedded%20Systems-E7352C?style=flat-square&logo=espressif&logoColor=white" />
 </p>
