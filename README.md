@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00395D,100:00AEEF&height=200&section=header&text=Hi,%20I'm%20Harsh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=VLSI%20·%20AI%2FML%20·%20ECE%20@%20Symbiosis%20Institute%20of%20Technology&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=Analog+VLSI+Design;Building+ML+Pipelines+Data" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=Analog+VLSI+Design;Building+ML+Pipelines" />
 
 <br/>
 
