@@ -119,9 +119,6 @@ Check my pinned repositories for the full list — each with its own detailed RE
 </tr>
 </table>
 
-<br/>
-
-
 ## 📫 Connect
 
 <a href="https://www.linkedin.com/in/harsh-kumar-244346326/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
