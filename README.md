@@ -24,7 +24,6 @@ I care about **rigor** — verifying that things actually work the way they're s
 ```
 ⚡ Hands-on with the full analog IC design flow: schematic → simulation → layout → DRC/LVS/PEX → post-layout verification
 🤖 Building ML pipelines for financial market prediction
-🔌 Technical Sub-Head, Electronics Design Club
 🏅 NPTEL Elite: Digital Circuits, Analog Circuits, CMOS VLSI Design (top 10% nationally)
 🏢 Former intern @ Compcarta Solutions
 ```
